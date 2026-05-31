@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Egor Demeshko 👋
 
-<!--
-**egordev-8/egordev-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Aspiring Python Developer and Web Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying programming and building practical projects to improve my skills in software development, web technologies, and problem-solving.
+
+- 🌱 Learning Python and Web Development
+- 💻 Working with HTML, CSS, JavaScript and C++
+- 🎨 Familiar with Figma, Photoshop and 3D modeling tools
+- 🚀 Looking for opportunities to gain real-world development experience
+- 📚 Continuously improving my coding skills
+
+---
+
+## Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- C++
+
+### Web Development
+- HTML5
+- CSS3
+- Responsive Design
+
+### Tools
+- GitHub
+- Figma
+- Photoshop
+- 3D Modeling Software
+
+---
+
+## Featured Project
+
+### Medical Career Guide
+
+Educational website about medical careers with responsive design and contact form integration.
+
+🔗 Live Demo:
+https://egordev-8.github.io/medical-career-guide/
+
+---
+
+## Languages
+
+- Russian — Native
+- Ukrainian — Native
+- English — Intermediate
+
+---
+
+## Contact
+
+📧 Email: egordemeshko907@gmail.com
+
+💬 Telegram: @sparta0880
+
+---
+
+## Current Goals
+
+- Build more portfolio projects
+- Improve Python development skills
+- Gain practical programming experience
+- Contribute to real-world projects
