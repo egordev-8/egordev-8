@@ -36,12 +36,12 @@ I am currently studying programming and building practical projects to improve m
 
 ## Featured Project
 
-### Medical Career Guide
+### Medical Career Guide-1.2
 
 Educational website about medical careers with responsive design and contact form integration.
 
 🔗 Live Demo:
-https://egordev-8.github.io/medical-career-guide/
+https://egordev-8.github.io/medical-career-guide-1.2/
 
 ---
 
